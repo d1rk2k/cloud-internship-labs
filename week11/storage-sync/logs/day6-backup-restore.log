@@ -1,0 +1,8 @@
+2026/11/18 04:09:37 INFO  : file2.txt: Copied (server-side copy)
+2026/11/18 04:09:37 INFO  : file1.txt: Copied (server-side copy)
+2026/11/18 04:09:37 INFO  : file3.txt: Copied (server-side copy)
+2026/11/18 04:09:37 INFO  : 
+Transferred:   	        110 B / 110 B, 100%, 0 B/s, ETA -
+Transferred:            3 / 3, 100%
+Elapsed time:         0.0s
+
